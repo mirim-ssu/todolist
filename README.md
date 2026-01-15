@@ -43,15 +43,11 @@ class Todo {
 * `title`: 할 일 내용
 * `isDone`: 완료 여부
 
----
-
 ### `MyApp`
 
 * 앱의 시작점
 * `MaterialApp` 설정
 * 첫 화면으로 `TodolistPage` 지정
-
----
 
 ### `TodolistPage` (StatefulWidget)
 
